@@ -1,5 +1,4 @@
-plugins: 
- - jekyll-seo-tag
+plugins: jekyll-seo-tag
 title: Elephants
 description: My Website
 theme: jekyll-theme-slate
